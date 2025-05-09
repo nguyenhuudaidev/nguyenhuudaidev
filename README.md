@@ -12,9 +12,9 @@
 
 ## 📫 Contact Me
 
-📧 Email: huudai2903@gmail.com
-🌐 LinkedIn: [huudai2903](https://www.linkedin.com/in/huudai2903)
-📘 Facebook: [huudai2903](https://www.facebook.com/huudai2903/)
+📧 [Email](mailto:huudai2903@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/huudai2903)
+📘 [Facebook](https://www.facebook.com/huudai2903/)
   
 ---
 
