@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Nguyen Huu Dai
 
 🎓 I'm a Software Engineering student at [DUT - University of Danang](https://dut.udn.vn/).  
-💼 I’m passionate about web development, especially with **Java**, and **SQL Server**.  
-🌱 Currently learning: Java.
+💼 I’m passionate about AI engineer.  
+🌱 Currently learning: Python.
 
 ---
 
